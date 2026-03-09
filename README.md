@@ -10,7 +10,7 @@ Sistem de gestiune a materialelor bazat pe interfață web, dezvoltat în PHP ș
 **Tehnologii Utilizate**
 * **Limbaj:** PHP
 * **Bază de date:** MySQL
-* **Frontend:** HTML5, CSS, Bootstrap
+* **Frontend:** HTML, CSS, Bootstrap
 * **Server recomandat:** XAMPP
 
 **Structura Bazei de Date**
